@@ -10,7 +10,7 @@ Here is the initial list of fonts included in this repository:
 - [Dank Mono](https://dank.sh)
 - [DankMono Nerd](https://dank.sh) (Nerd Font variant)
 - [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
-- [Gintronic](https://github.com/somegintronic) *(Add official URL if available)*
+- [Gintronic](https://github.com/somegintronic)
 - [IBM Plex Mono](https://www.ibm.com/plex/)
 - [MonoLisa](https://www.monolisa.dev/)
 - [Operator Mono](https://www.typography.com/fonts/operator/overview)
@@ -22,7 +22,7 @@ Here is the initial list of fonts included in this repository:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/best-coding-fonts.git
+   git clone https://github.com/shovoncse/best-coding-fonts.git
    ```
 2. Browse the font folders and install the fonts you like.
 3. Configure your code editor or terminal to use your chosen font.
